@@ -35,8 +35,7 @@ namespace ConvertEquations
             #region 消费者
             DefaultMQPushConsumer consumer = new DefaultMQPushConsumer("latex-mathtype-request-group");
             consumer.setConsumeFromWhere(ConsumeFromWhere.CONSUME_FROM_FIRST_OFFSET);
-            //consumer.setNamesrvAddr("172.16.39.122:9876");
-            consumer.setNamesrvAddr("172.16.11.86:9876");
+            consumer.setNamesrvAddr("localhost:9876");
             ////Go_Ticket_WuLang_Test toptic名字，* 表示不过滤tag，如果过滤，可使用 ||划分
             consumer.subscribe("latex-to-mathtype-request-topic", "latex-to-mathtype-tag");
             consumer.registerMessageListener(new TestListener());
@@ -983,7 +982,7 @@ namespace ConvertEquations
                 producer = new DefaultMQProducer("latex-mathtype-response-group");
 
                 ////服务器ip
-                producer.setNamesrvAddr("172.16.39.122:9876");
+                producer.setNamesrvAddr("localhost:9876");
                 producer.start();
 
                 ////Go_Ticket_WuLang_Test 为 toptic 名字，taga是比toptic更为精确地内容划分，RocketMQ会重试是内容
