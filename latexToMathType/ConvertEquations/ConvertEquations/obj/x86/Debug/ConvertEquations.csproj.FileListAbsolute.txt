@@ -1,0 +1,9 @@
+E:\mathType\LatexMathType\MathTypeSDK6.9\DotNET\ConvertEquations\ConvertEquations\bin\x86\Debug\ConvertEquations.exe
+E:\mathType\LatexMathType\MathTypeSDK6.9\DotNET\ConvertEquations\ConvertEquations\bin\x86\Debug\ConvertEquations.pdb
+E:\mathType\LatexMathType\MathTypeSDK6.9\DotNET\ConvertEquations\ConvertEquations\bin\x86\Debug\MTSDKDN.dll
+E:\mathType\LatexMathType\MathTypeSDK6.9\DotNET\ConvertEquations\ConvertEquations\bin\x86\Debug\MTSDKDN.pdb
+E:\mathType\LatexMathType\MathTypeSDK6.9\DotNET\ConvertEquations\ConvertEquations\obj\x86\Debug\ConvertEquations.csproj.CoreCompileInputs.cache
+E:\mathType\LatexMathType\MathTypeSDK6.9\DotNET\ConvertEquations\ConvertEquations\obj\x86\Debug\ConvertEquations.csproj.CopyComplete
+E:\mathType\LatexMathType\MathTypeSDK6.9\DotNET\ConvertEquations\ConvertEquations\obj\x86\Debug\ConvertEquations.exe
+E:\mathType\LatexMathType\MathTypeSDK6.9\DotNET\ConvertEquations\ConvertEquations\obj\x86\Debug\ConvertEquations.pdb
+E:\mathType\LatexMathType\MathTypeSDK6.9\DotNET\ConvertEquations\ConvertEquations\obj\x86\Debug\ConvertEquations.csprojAssemblyReference.cache

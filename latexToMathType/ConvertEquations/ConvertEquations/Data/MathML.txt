@@ -1,0 +1,18 @@
+<m:math display='block'>
+ <m:semantics>
+  <m:mrow>
+   <m:msqrt>
+    <m:mrow>
+     <m:msup>
+      <m:mi>a</m:mi>
+      <m:mn>2.1</m:mn>
+     </m:msup>
+     <m:mo>+</m:mo><m:msup>
+      <m:mi>b</m:mi>
+      <m:mn>24</m:mn>
+     </m:msup>
+    </m:mrow>
+   </m:msqrt>
+  </m:mrow>
+ </m:semantics>
+</m:math>

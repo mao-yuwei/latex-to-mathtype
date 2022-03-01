@@ -1,0 +1,6 @@
+E:\mathType\LatexMathType\MathTypeSDK6.9\DotNET\MTSDKDN\MTSDKDN\bin\Release\MTSDKDN.dll
+E:\mathType\LatexMathType\MathTypeSDK6.9\DotNET\MTSDKDN\MTSDKDN\bin\Release\MTSDKDN.pdb
+E:\mathType\LatexMathType\MathTypeSDK6.9\DotNET\MTSDKDN\MTSDKDN\obj\Release\MTSDKDN.csprojAssemblyReference.cache
+E:\mathType\LatexMathType\MathTypeSDK6.9\DotNET\MTSDKDN\MTSDKDN\obj\Release\MTSDKDN.csproj.CoreCompileInputs.cache
+E:\mathType\LatexMathType\MathTypeSDK6.9\DotNET\MTSDKDN\MTSDKDN\obj\Release\MTSDKDN.dll
+E:\mathType\LatexMathType\MathTypeSDK6.9\DotNET\MTSDKDN\MTSDKDN\obj\Release\MTSDKDN.pdb

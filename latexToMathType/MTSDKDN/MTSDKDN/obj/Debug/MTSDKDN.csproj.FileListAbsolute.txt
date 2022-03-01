@@ -1,0 +1,17 @@
+E:\mathType\LatexMathType\MathTypeSDK6.9\DotNET\MTSDKDN\MTSDKDN\bin\Debug\MTSDKDN.dll
+E:\mathType\LatexMathType\MathTypeSDK6.9\DotNET\MTSDKDN\MTSDKDN\bin\Debug\MTSDKDN.pdb
+E:\mathType\LatexMathType\MathTypeSDK6.9\DotNET\MTSDKDN\MTSDKDN\obj\Debug\MTSDKDN.csprojAssemblyReference.cache
+E:\mathType\LatexMathType\MathTypeSDK6.9\DotNET\MTSDKDN\MTSDKDN\obj\Debug\MTSDKDN.csproj.CoreCompileInputs.cache
+E:\mathType\LatexMathType\MathTypeSDK6.9\DotNET\MTSDKDN\MTSDKDN\obj\Debug\MTSDKDN.dll
+E:\mathType\LatexMathType\MathTypeSDK6.9\DotNET\MTSDKDN\MTSDKDN\obj\Debug\MTSDKDN.pdb
+E:\mathType\latex-mathType\MathTypeSDK6.9\DotNET\MTSDKDN\MTSDKDN\bin\Debug\MTSDKDN.dll
+E:\mathType\latex-mathType\MathTypeSDK6.9\DotNET\MTSDKDN\MTSDKDN\bin\Debug\MTSDKDN.pdb
+E:\mathType\latex-mathType\MathTypeSDK6.9\DotNET\MTSDKDN\MTSDKDN\obj\Debug\MTSDKDN.csproj.CoreCompileInputs.cache
+E:\mathType\latex-mathType\MathTypeSDK6.9\DotNET\MTSDKDN\MTSDKDN\obj\Debug\MTSDKDN.dll
+E:\mathType\latex-mathType\MathTypeSDK6.9\DotNET\MTSDKDN\MTSDKDN\obj\Debug\MTSDKDN.pdb
+E:\mathType\latex-mathType\MathTypeSDK6.9\DotNET\MTSDKDN\MTSDKDN\obj\Debug\MTSDKDN.csprojAssemblyReference.cache
+E:\mathType\latextomathType20200415\latexToMathTypeMQ\latexToMathType\MTSDKDN\MTSDKDN\bin\Debug\MTSDKDN.dll
+E:\mathType\latextomathType20200415\latexToMathTypeMQ\latexToMathType\MTSDKDN\MTSDKDN\bin\Debug\MTSDKDN.pdb
+E:\mathType\latextomathType20200415\latexToMathTypeMQ\latexToMathType\MTSDKDN\MTSDKDN\obj\Debug\MTSDKDN.csproj.CoreCompileInputs.cache
+E:\mathType\latextomathType20200415\latexToMathTypeMQ\latexToMathType\MTSDKDN\MTSDKDN\obj\Debug\MTSDKDN.dll
+E:\mathType\latextomathType20200415\latexToMathTypeMQ\latexToMathType\MTSDKDN\MTSDKDN\obj\Debug\MTSDKDN.pdb
